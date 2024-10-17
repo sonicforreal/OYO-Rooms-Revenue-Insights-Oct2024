@@ -26,6 +26,7 @@ To capture trends, I included metrics comparing RevPAR, ADR, and occupancy perce
 
 
 3. Insights and Recommendations
+
 The primary goal of this analysis is to maximize profit. Based on the dashboard insights, I recommend increasing room prices on peak days when demand exceeds that of weekdays.
 
  This can be evaluated using the RevPAR trendline. Implementing a flexible pricing strategy, as seen in other hospitality businesses during vacation seasons, can help capture additional profits rather than relying on fixed pricing.
