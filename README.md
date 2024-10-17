@@ -5,8 +5,11 @@ OYO Rooms Revenue Insights    Oct2024
 In this project, I focused on understanding the client’s specific needs rather than vague recommendations. Key metrics were identified to guide the analysis, including:
 
 •	RevPAR (Revenue per Available Room)
+
 •	DSRN (Daily Sellable Room Nights)
+
 •	ADR (Average Daily Rate)
+
 •	DURN (Daily Utilized Room)
 
 These metrics, along with overall revenue and occupancy percentage, would be crucial for the analysis.
